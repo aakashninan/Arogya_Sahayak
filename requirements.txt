@@ -1,1 +1,7 @@
-streamlit pandas numpy scikit-learn matplotlib seaborn openpyxl # Often needed by pandas for robust data handling
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+openpyxl
